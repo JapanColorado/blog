@@ -27,7 +27,7 @@
 .header {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
   font-family: $sans-serif-font-family;
 }
 
@@ -39,6 +39,10 @@
   font-size: 2rem;
   text-decoration: none;
   color: $body-color;
+}
+
+.header-title {
+  margin-bottom: 0.25em;
 }
 
 .header-subtitle {
