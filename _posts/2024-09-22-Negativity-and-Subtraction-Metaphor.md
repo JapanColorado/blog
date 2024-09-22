@@ -9,7 +9,7 @@ image: Neg-sub-metaphor.png
 
 I was often confused back in middle/high school math class. It seemed like many of the "rules" decreed by the all-powerful mathematicians were completely unnecessary.
 
-For example, the idea that $3-2 = 3 + (-2)$. This seemed just needlessly complicating the simple idea of subtraction. Saying, "Oh no no, silly student. Subtraction is simply adding a negative number!" 
+For example, the idea that $3-2 = 3 + (-2)$. This seemed just needlessly complicating the simple idea of subtraction. Saying, "Oh no no, silly student. Subtraction is simply adding a negative number!"
 
 This seemed completely useless. But whatever. I let it slide and didn't question it deeply enough to actually get an answer.
 
