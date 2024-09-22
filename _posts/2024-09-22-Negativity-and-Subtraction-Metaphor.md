@@ -25,11 +25,11 @@ But as I thought about how "shouldn't" *feels* like a different kind of idea fro
 
 ## $3-2$ is a *contraction* for $3+(-2)$
 
-Of course they're equal! Ultimately, they express the same idea, just like "shouldn't" and "should", even though they feel very different. And just like it's sometimes useful to remove contractions entirely from a sentence, it is also sometimes useful to rephrase $3-2$ as $3+(-2)$.
+Of course they're equal! Ultimately, they express the same idea, just like "shouldn't" and "should not", even though they feel very different. And just like it's sometimes useful to remove contractions entirely from a sentence, it is also sometimes useful to rephrase $3-2$ as $3+(-2)$.
 
 ## Replacing the contraction
 
-An example I could think of where it is helpful to expand the contraction of subtraction into adding a negative is the following:
+An example I could think of where it is helpful to "expand the contraction" of subtraction into adding a negative is the following:
 
 The addition rule for derivatves states:
 
