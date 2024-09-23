@@ -31,7 +31,7 @@ Of course they're equal! Ultimately, they express the same idea, just like "shou
 
 An example I could think of where it is helpful to "expand the contraction" of subtraction into adding a negative is the following:
 
-The addition rule for derivatves states:
+The [addition rule](https://derivative-calculator.org/rules/sum-rule/) for [derivatves](https://www.3blue1brown.com/lessons/derivatives) states:
 
 $$\text{If }h(x)=f(x)+g(x)\text{, then } h'(x)=f'(x)+g'(x)$$
 
