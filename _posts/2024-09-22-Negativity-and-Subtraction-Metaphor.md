@@ -3,7 +3,7 @@ layout: post
 title: "A new metaphor to understand 3rd grade math"
 author: "Russell White"
 categories: journal
-tags: [math]
+tags: [math, learning]
 image: Neg-sub-metaphor.png
 ---
 
