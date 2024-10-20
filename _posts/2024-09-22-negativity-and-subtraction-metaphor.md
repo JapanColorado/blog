@@ -4,7 +4,7 @@ title: "A new metaphor to understand 3rd grade math"
 author: "Russell White"
 categories: journal
 tags: [math, learning]
-image: Neg-sub-metaphor.png
+image: neg-sub-metaphor.png
 ---
 
 I was often confused back in middle/high school math class. It seemed like many of the "rules" decreed by the all-powerful mathematicians were completely unnecessary.
