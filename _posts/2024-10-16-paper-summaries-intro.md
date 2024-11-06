@@ -3,7 +3,7 @@ layout: post
 title: "A new series: Paper Summaries!"
 author: "Russell White"
 categories: paper-summaries
-tags: [learning,papers]
+tags: [learning,papers,notes]
 image: paper-summaries-intro.jpg
 ---
 
