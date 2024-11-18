@@ -53,7 +53,7 @@ $$\cos(x)+i\sin(x)$$
 
 ### 5. Draw a picture (Have numbers? Make them coords!)
 
-Simple sketches often give meaning to arbitrary-feeling numbers. If you can make those numbers into coordinates in you sketch, even better!
+Simple sketches often give meaning to arbitrary-feeling numbers. If you can make those numbers into coordinates within your sketch, even better!
 
 ### 6. Ask a simpler version of the problem
 
@@ -61,7 +61,7 @@ If you're solving a problem and it just feels *too hard*, try simplifying the pr
 
 ### 7. Read a lot and think about problems a lot
 
-Often solving problems comes down to just recognizing patterns from other fields or subfields. One of the best ways to be a better problem solver is to learn more about and solve more problems.
+Often solving problems comes down to just recognizing patterns from other fields or subfields. One of the best ways to be a better problem solver is to learn more about the domain you're working with and solve more problems from that domain.
 
 ### 8. Always gut check your answer
 
@@ -71,7 +71,7 @@ Often these little gut checks will save your ass more than any extra ingenuity o
 
 ### 9. Learn at least a little programming
 
-Programming is extraordinarily useful for checking your answer in a wide range of problems. For example, you can often just brute force finding an answer when it comes to a probability problem by just simulating it a million times.
+Programming is extraordinarily useful for checking your answer in a wide range of problems. For example, you can often just brute force finding an answer when it comes to a probability problem; just simulate the event a million times!
 
 Additionally, programming forces you to think about the problem in a different way. The added constraints of making something computational makes you create new connections between your ideas.
 

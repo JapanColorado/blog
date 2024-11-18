@@ -7,7 +7,7 @@ tags: [notes]
 image: motivation-hacker.jpg
 ---
 
-A while ago, I read Nick Winter's *The Motivation Hacker* and took notes on it in Notion. They've just been sitting there every since. I've decided to edit them and post them here in case they are of any help to anyone reading. I also have a section at the end discussing my thoughts on motivation hacking and how/whether I use what Winter lays out in his book. I hope you enjoy!
+A while ago, I read Nick Winter's *The Motivation Hacker* while taking notes in Notion, and they've just been sitting there every since. I've decided to edit them and post them here in case they are of any help to anyone reading. I also have a section at the end discussing my thoughts on motivation hacking and how/whether I use what Winter lays out in his book. I hope you enjoy!
 
 ## *The Motivation Hacker* - Notes
 
@@ -20,7 +20,7 @@ A while ago, I read Nick Winter's *The Motivation Hacker* and took notes on it i
 
 ## The basis for motivation hacking
 
-### *__Motivation__* = *Expectancy* **Value* / (*Impulsiveness** *Delay*)
+### *__Motivation__* = *Expectancy* \* *Value* / (*Impulsiveness* \* *Delay*)
 
 - *Expectancy* - Confidence of success
 - *Value* - Reward level and importance
@@ -81,8 +81,8 @@ A while ago, I read Nick Winter's *The Motivation Hacker* and took notes on it i
 
 - Motivation hackers are in danger of achieving the wrong goals because they can hack their motivation for any goal.
 - Imagine your ideal day. What do you do? Who do you talk to? Where do you go? Pick goals that bring you closer to this ideal.
-- Rate your potential goals on the following three factors, plug into  $\frac{e\cdot P(s)}{t}$, and sort from high to low
-    1. $e$ - How much the goal excites you
+- Rate your potential goals on the following three factors, plug into  $\frac{x \cdot P(s)}{t}$, and sort from high to low
+    1. $x$ - How much the goal excites you
     2. $P(s)$ - Your probability of success if you tried as hard as you could()
     3. $t$ - How long it would take in hours
 - Imagine you’re a different person more competent than yourself that was just dropped into your life with none of your current obligations but all your current predicaments. Forget what has come before. What would you do?
@@ -146,4 +146,4 @@ I do use Beeminder as my primary tool for keeping myself on track with my goals,
 
 As a sidenote, I'd be curious how much of this book Winter still agrees with. If I wrote a book *right now*, on *any topic*, I would expect to disagree with at least 50% of it 5 years later with about 90% confidence.
 
-All in all, this book was partially useful and partially, *woah, this guy's weird even by my standards.* I'm glad if Winter is enjoying his life, and if you get value from any of his advice, then that's great. Personally, I don't think that Winter's life is the one I want to aspire to.
+All in all, this book was partially useful, and partially: *woah, this guy's weird even by my standards.* I'm glad if Winter is enjoying his life, and if you get value from any of his advice, then that's great. Personally, I don't think that Winter's life is the one I want to aspire to.
