@@ -17,7 +17,7 @@ Until today.
 
 ## What changed?
 
-I was walking through the main street of my downtown this afternoon. It was the kind of weather so nice and beautiful that it made you feel guilty for just for even thinking of going home and tapping around on your computer in an air-conditioned room.
+I was walking through the main street of my downtown this afternoon. It was the kind of weather so nice and beautiful that it made you feel guilty for even *thinking* of going home and tapping around on your computer in an air-conditioned room.
 
 As I was walking, my mind was wandering from idea to idea. Eventually, it alighted on the idea of how "shouldn't" is a contraction for "should not". **Obviously.**
 
@@ -37,7 +37,7 @@ $$\text{If }h(x)=f(x)+g(x)\text{, then } h'(x)=f'(x)+g'(x)$$
 
 Example: $f(x)=3x^2+2x\implies f'(x)=6x+2$
 
-If you were to think of subtraction and addition as separate operation, you would need to specify *another rule*. You would need a new *subtraction rule* for derivatives, namely:
+If you were to think of subtraction and addition as separate operations, you would need to specify *another rule*. You would need a new *subtraction rule* for derivatives, namely:
 
 $$\text{If }h(x)=f(x)-g(x)\text{, then } h'(x)=f'(x)-g'(x)$$
 
@@ -47,4 +47,4 @@ However, by "expanding the contraction" by rewriting $f(x)-g(x)=f(x)+(-g(x))$, t
 
 I think today I really grokked the importance of metaphor in understanding something new(or even something old!). I think I also learned that it's easy to think you understand something, and hard to actually fully understand it.
 
-If you enjoyed reading this post, let me know! If you hated it, let me know! If my math is wrong, please, *please*, **please** let me know!! In any case, thanks for reading!
+If you enjoyed reading this post, let me know! If you hated it, let me know! If my math is wrong, please, *please*, ***please*** let me know!! In any case, thanks for reading!
